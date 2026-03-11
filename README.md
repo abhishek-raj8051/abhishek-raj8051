@@ -1,31 +1,31 @@
 <h1 align="center">Hi 👋, I'm Abhishek Raj</h1>
 
-<h3 align="center">🔐 Cybersecurity Student | Ethical Hacking Learner</h3>
+<h3 align="center">🔐 Cybersecurity Enthusiast | Ethical Hacking Learner</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=26&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Ethical+Hacker;Capture+The+Flag+Player;Linux+Security+Enthusiast;Python+Security+Developer">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=26&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Ethical+Hacker;CTF+Player;Linux+Security+Enthusiast;Python+Security+Developer">
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/CYBERSECURITY-STUDENT-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/ETHICAL-HACKING-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/CTF-PLAYER-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/LINUX-SECURITY-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/Cybersecurity-Student-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Ethical-Hacking-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/CTF-Player-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Linux-Security-yellow?style=for-the-badge">
 </p>
 
 ---
 
-<img align="right" width="310" src="https://imgs.search.brave.com/hEX8HM6T_uYcK9VXJMt2c_HAQmlgISUavDylb5xG4lU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhaVGN6TlRnellU/ZHNaelpwTURBd2JI/Tm1NbkZwTW1sMmNI/bzNNelJzYkdsclpU/TnFOWFJrT0NabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vakJPT1h4U0pm/RzhrcU14VDExL2dp/cGh5LmdpZg.gif">
+<img align="right" width="350" src="https://imgs.search.brave.com/hEX8HM6T_uYcK9VXJMt2c_HAQmlgISUavDylb5xG4lU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhaVGN6TlRnellU/ZHNaelpwTURBd2JI/Tm1NbkZwTW1sMmNI/bzNNelJzYkdsclpU/TnFOWFJrT0NabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vakJPT1h4U0pm/RzhrcU14VDExL2dp/cGh5LmdpZg.gif">
 
-### 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-* 🎓 Cybersecurity Student at **GLA University**
+* 🎓 Cybersecurity Student from **India**
 * 🔭 Currently building **Ransomware Detection Engine**
 * 🌱 Learning **Advanced Cybersecurity & Capture The Flag**
-* 🧠 Interested in **Malware Analysis, Penetration Testing & Network Security**
+* 💻 Interested in **Malware Analysis, Penetration Testing & Network Security**
 * ⚡ Fun fact: *Breaking systems helps me understand security*
 
-<br><br>
+<br><br><br>
 
 ---
 
@@ -49,7 +49,7 @@
 
 ---
 
-# 🛠 Languages & Tools
+# 🛠️ Languages & Tools
 
 <p align="center">
 
@@ -71,24 +71,15 @@
 
 # 🧠 Hacker Terminal
 
-```bash
+```bash id="j03wwk"
 root@abhishek:~# whoami
 Cybersecurity Student
-
-root@abhishek:~# university
-GLA University
 
 root@abhishek:~# skills
 Python Security Tools
 Linux Security
 Network Analysis
 Ethical Hacking
-
-root@abhishek:~# tools
-Nmap
-Wireshark
-Burp Suite
-Metasploit
 
 root@abhishek:~# current_focus
 Building Ransomware Detection Engine
@@ -112,15 +103,11 @@ Learning Exploitation Techniques
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishek-raj8051&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abhishek-raj8051&show_icons=true&theme=tokyonight">
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-raj8051&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-raj8051&theme=tokyonight">
 
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-raj8051&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-raj8051&layout=compact&theme=tokyonight">
 
 </p>
 
