@@ -1,4 +1,5 @@
 ![logo](https://github.com/abhishek-raj8051/abhishek-raj8051/blob/main/hello.png)
+
 <h1 align="center">Hi 👋, I'm Abhishek Raj</h1>
 
 <h3 align="center">🔐 Cybersecurity Enthusiast | Ethical Hacking Learner</h3>
@@ -35,15 +36,23 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/abhishekraj80">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
 <a href="https://instagram.com/abhishek_raj2210">
-<img src="https://skillicons.dev/icons?i=instagram"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 
 <a href="https://leetcode.com/abhishekraj5556">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/>
+</a>
+
+<a href="https://tryhackme.com/p/abhishekraj8051">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tryhackme.svg" height="40"/>
+</a>
+
+<a href="https://app.hackthebox.com/profile/abhishekraj805110">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackthebox.svg" height="40"/>
 </a>
 
 </p>
@@ -72,7 +81,7 @@
 
 # 🧠 Hacker Terminal
 
-```bash id="j03wwk"
+```bash
 root@abhishek:~# whoami
 Cybersecurity Student
 
@@ -93,9 +102,7 @@ Learning Exploitation Techniques
 # 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=abhishek-raj8051&theme=matrix&no-frame=true&row=1&column=6"/>
-
 </p>
 
 ---
@@ -117,9 +124,7 @@ Learning Exploitation Techniques
 # 📈 Activity Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-raj8051&theme=tokyo-night"/>
-
 </p>
 
 ---
@@ -127,9 +132,7 @@ Learning Exploitation Techniques
 # 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-
 </p>
 
 ---
@@ -137,7 +140,5 @@ Learning Exploitation Techniques
 # 👀 Profile Views
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=abhishek-raj8051&label=Profile%20Views&color=00ff00&style=flat"/>
-
 </p>
