@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" width="350" src="https://imgs.search.brave.com/hEX8HM6T_uYcK9VXJMt2c_HAQmlgISUavDylb5xG4lU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhaVGN6TlRnellU/ZHNaelpwTURBd2JI/Tm1NbkZwTW1sMmNI/bzNNelJzYkdsclpU/TnFOWFJrT0NabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vakJPT1h4U0pm/RzhrcU14VDExL2dp/cGh5LmdpZg.gif">
+<img align="right" width="350" src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif">
 
 ### 👨‍💻 About Me
 
@@ -31,6 +31,35 @@
 
 ---
 
+
+# 🏴‍☠️ TryHackMe
+
+<p align="center">
+
+</p>
+
+<table align="center">
+<tr>
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/abhishek-raj8051/abhishek-raj8051/main/Screenshot%20From%202026-03-16%2001-33-48.png" width="900">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Rank-Top%207%25-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Rooms-60-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Badges-5-blue?style=for-the-badge">
+<br><br>
+<img src="https://img.shields.io/badge/CTF-Practice-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Web-Exploitation-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Privilege-Escalation-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/Network-Attacks-red?style=for-the-badge">
+
+</td>
+</tr>
+</table>
+
+---
 # 🌐 Connect With Me
 
 <p align="left">
@@ -62,8 +91,49 @@
 # 🛠️ Languages & Tools
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,linux,docker,c,java,js,html,css,bash,git"/>
+</p>
+
+---
+
+# 🛡 Security Tools & Platforms
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Cybersecurity+Tools;Penetration+Testing+Stack;Network+Security+Toolkit">
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NMAP-Network%20Scanner-red?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
+<img src="https://img.shields.io/badge/WIRESHARK-Network%20Analyzer-blue?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/BURP%20SUITE-Web%20Security-orange?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/METASPLOIT-Penetration%20Testing-purple?style=for-the-badge&logo=metasploit&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/GOBUSTER-Directory%20Bruteforce-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HYDRA-Password%20Attack-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JOHN%20THE%20RIPPER-Password%20Cracking-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AIRCRACK--NG-Wifi%20Security-blue?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NETCAT-Network%20Exploitation-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KALI%20LINUX-Pentesting%20OS-black?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/DOCKER-Container%20Security-blue?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-Version%20Control-orange?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=100&section=footer"/>
 
 </p>
 
@@ -78,6 +148,8 @@
 * Capture The Flag (CTF)
 
 ---
+
+
 
 # 🧠 Hacker Terminal
 
