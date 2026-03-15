@@ -31,6 +31,20 @@
 
 ---
 
+---
+
+# 🚀 Featured Project
+
+<p align="center">
+
+<a href="https://github.com/abhishek-raj8051/Scan4Health">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-raj8051&repo=Scan4Health&theme=tokyonight">
+</a>
+
+</p>
+
+---
+
 
 # 🏴‍☠️ TryHackMe
 
